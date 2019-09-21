@@ -15,7 +15,7 @@
       "port": "12543"
     }
   ],
-  "showsponser": true,
-  "spon_usrname": "Mehreganpainclinic",
-  "sponser_id": -1092179747
+  "showsponser": false,
+  "spon_usrname": "",
+  "sponser_id": -0
 }
