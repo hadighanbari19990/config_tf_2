@@ -15,7 +15,7 @@
       "port": "12543"
     }
   ],
-  "showsponser": true,
-  "spon_usrname": "drgilaki",
-  "sponser_id": -1003455000
+  "showsponser": false,
+  "spon_usrname": "",
+  "sponser_id": -0
 }
