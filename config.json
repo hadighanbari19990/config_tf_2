@@ -15,7 +15,7 @@
       "port": "12543"
     }
   ],
-  "showsponser": false,
-  "spon_usrname": "",
-  "sponser_id": -0
+  "showsponser": true,
+  "spon_usrname": "Hamrahmedia",
+  "sponser_id": -1160336163
 }
