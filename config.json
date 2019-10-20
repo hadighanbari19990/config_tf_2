@@ -15,7 +15,7 @@
       "port": "12543"
     }
   ],
-  "showsponser": true,
-  "spon_usrname": "papercup1234",
-  "sponser_id": -1078635528
+  "showsponser": false,
+  "spon_usrname": "",
+  "sponser_id": -0
 }
